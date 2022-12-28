@@ -1,0 +1,88 @@
+// Documentation at https://www.sublimetext.com/docs/color_schemes.html
+{
+    "variables":
+    {
+    },
+    "globals":
+    {
+    },
+    "rules":
+    [
+        {
+            "scope" : "h1,h2",
+            "foreground": "pink",
+            "font_style": "glow",
+
+        },
+                {
+            "scope" : "entity.name.title",
+            "foreground": "pink",
+            "font_style": "glow",
+
+        },
+        {
+            "scope" : "file.title",
+            "foreground": "yellow",
+            "font_style": "glow",
+
+        },
+        {
+            "scope" : "url.short",
+            "foreground": "#94cfc5",
+            // "font_style": "glow",
+
+        },
+        {
+            "scope" : "url.long",
+            "foreground": "#94cfc5",
+            // "font_style": "glow",
+
+        },
+        {
+            "scope" : "entity.name.subtitle",
+            "foreground": "pink",
+            "font_style": "glow",
+
+        },
+        {
+            "scope" : "entity.name.note",
+            "foreground": "#AAAAFF",
+            "font_style": "italic"
+
+        },
+        {
+            "scope" : "entity.name.tip",
+            "foreground": "#AAFFAA",
+            "font_style": "italic"
+
+        },
+        {
+            "scope" : "entity.name.warning",
+            "foreground": "#FFAAAA",
+            "font_style": "italic"
+
+        },
+
+        {
+            "scope" : "entity.name.bullet",
+            "foreground": "white",
+        },
+        {
+            "scope" : "entity.name.numbredList",
+            "foreground": "white",
+            "font_style": "bold",
+        },
+
+        {
+            "scope" : "font.bold",
+            "foreground": "white",
+            "font_style": "bold",
+        },
+        {
+            "scope" : "font.math",
+            "foreground": "white",
+            "font_style": "bold italic",
+        },
+
+    ]
+}

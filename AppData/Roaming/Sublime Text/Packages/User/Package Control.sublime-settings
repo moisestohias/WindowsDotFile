@@ -1,0 +1,19 @@
+	{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"ayu",
+		"fish",
+		"gruvbox",
+		"nginx",
+		"Package Control",
+		"PackageResourceViewer",
+		"PowerShell",
+		"SideBarEnhancements",
+		"SynthWave 84 - Color Scheme",
+	],
+}

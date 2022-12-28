@@ -1,0 +1,59 @@
+// Documentation at https://www.sublimetext.com/docs/color_schemes.html
+{
+    "variables":
+    {
+    },
+    "globals":
+    {
+    },
+    "rules":
+    [
+        {
+            "scope" : "entity.name.title",
+            "foreground": "pink",
+            "font_style": "glow",
+
+        },
+        {
+            "scope" : "entity.name.subtitle",
+            "foreground": "pink",
+            "font_style": "glow",
+
+        },
+        {
+            "scope" : "entity.name.note",
+            "foreground": "#AAAAFF",
+            "font_style": "italic"
+
+        },
+        {
+            "scope" : "entity.name.tip",
+            "foreground": "#AAFFAA",
+            "font_style": "italic"
+
+        },
+        {
+            "scope" : "entity.name.warning",
+            "foreground": "#FFAAAA",
+            "font_style": "italic"
+
+        },
+
+        {
+            "scope" : "entity.name.bullet",
+            "foreground": "white",
+            "font_style": "italic"
+        },
+        {
+            "scope" : "entity.name.numbredList",
+            "foreground": "#CAFFCA",
+            // "font_style": "bold",
+        },
+        {
+            "scope" : "entity.name.url",
+            "foreground": "#45DE89",
+            "font_style": "underline glow",
+        },
+
+    ]
+}
